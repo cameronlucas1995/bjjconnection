@@ -1,0 +1,1 @@
+export default function PublicPerfil(){ return <div>Perfil Público</div> }
